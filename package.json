@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "./node_moduls.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikans86/cypress1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikans86/cypress1/issues"
+  },
+  "homepage": "https://github.com/mikans86/cypress1#readme",
+  "devDependencies": {
+    "cypress": "^11.2.0"
+  }
+}
